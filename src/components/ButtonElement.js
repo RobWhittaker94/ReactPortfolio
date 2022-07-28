@@ -13,7 +13,7 @@ export const Button = styled(Link)`
   display: flex;
   justify-content: center;
   transition: all 0.2s ease-in-out;
-  box-shadow: 0 0 1.5em #01bf71;
+  /* box-shadow: 0 0 1.5em #01bf71; */
 
   &:hover {
     transition: all 0.2s ease-in-out;
